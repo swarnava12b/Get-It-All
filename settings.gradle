@@ -1,0 +1,2 @@
+rootProject.name = "get it all"
+include ':app'
